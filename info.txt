@@ -1,0 +1,6 @@
+1-Una promise es es un objeto que representa la terminación o el fracaso de una operación asíncrona
+2-Una función de callback es una función que se pasa a otra función como un argumento, que luego se invoca dentro de la función externa para completar algún tipo de rutina o acción
+Las diferencias mas notables entre ellas es que mientras que la promise es un objeto que representa la terminación, el callback es todo lo contrario
+este se abjunta a otra función como un argumento y este se puede agregar al promise si es necesario, otra cosa importante es que la promise es inedependiente de otros, mientras que callback
+necesita otra función para que funcióne 
+
